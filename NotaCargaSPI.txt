@@ -1,9 +1,0 @@
-El programa de carga MCHCargaSPIfp.exe requiere de la creación de las tablas para el indice SPI de 3, 6, 12 y 24 meses.
-
-Los nombres de las tablas mensuales deben declararse en el archivo de parametros varsMCHspi.var de la siguiente forma:
-
-Parámetro	NombreTabla	Archivodepaso.txt
-SP3	dmindicespi3	SPI3.txt
-
-El código del parámetro esta en el archivo que se va a cargar por lo que no debe modificarse, el nombre de la tabla corresponde
-con la tabla de datos mensuales y el archivo de carga es un archivo de texto para cargar los datos a la base.
