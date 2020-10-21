@@ -1,0 +1,54 @@
+ntgruposestac	gruposestac
+ncgrupoestac	grupoestac
+nmselecgrupo	Selec. Grupo
+nmnosepudo	No se pudo abrir base de datos: 
+nmparaminvalido	Parámetro inválido: 
+nmnotiene3	No contiene 3 datos la línea: 
+nmnotiene3i	No contiene 3 datos enteros la línea: 
+nmmesinvalido	Mes inválido. No se toma en cuenta la línea
+nmarrtemp	Arreglo temporal: Periodo: 
+nmvalaprox	Valor aproximado de: 
+nmutilizado	 utilizado
+nmvalimprec	Valor impreciso de: 
+ncestacion	estacion
+ncvalor	valor
+nttabla	ddprecipitacion
+ncfecha	fecha
+nmleyendo	Leyendo datos: 
+nmlimite	Año límite inicio mayor que año límite fin 
+nmnohay	No hay periodos definidos
+nmperiodo	Perido inválido: 
+nmfechas	Fechas de proceso inválidas: fechaini= 
+nmfechas2	  fechafin= 
+nminicia	---------- Inicia proceso. Grupo de estaciones: 
+nmestaciones	Cantidad de estaciones a procesar: 
+nmprocesando	Procesando estación: 
+nmleidos	Registros leidas: 
+nmprocesando2	Procesando para el periodo: 
+nmestac	Estación: 
+ntestaciones	estaciones
+nmterminado	Proceso terminado: 
+nmestacion	Estación
+nmagno	Año
+nmmes	Mes
+nmlongitud	Longitud
+nmlatitud	Latitud
+nclongitud2	longitud2
+nclatitud2	latitud2
+TituloForma	Indice Estandarizado de Precipitacion
+Periodos	Periodos a procesar (-p):
+Grupo	Grupo de Estaciones (-g):
+DSN	DSN de la base de datos (-DSN):
+NumEstaciones	Num. estaciones a procesar (-ne):
+FechaInicial	Fecha inicial (-fi):
+FechaFinal	Fecha final (-ff):
+LimiteInicio	Año limite inicio (-ai):
+LimiteFin	Año limite fin (-af):
+ArchivoDatos	Archivo de datos (-ad):
+Rastrea	Rastrea proceso (-bR)
+ActDSN	Actz. DSN
+SelecArchivo	Selec. archivo
+Procesa	Procesa
+#Agno	Año
+Mes	Mes
+#Dia	Día

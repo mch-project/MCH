@@ -1,0 +1,312 @@
+---------- Inicia proceso. Grupo de estaciones: HONDURAS 2018/09/22 13:39:53
+Cantidad de estaciones a procesar: 61
+
+
+------------- Procesando estación: AGUACALIENTE 2018/09/22 13:39:55
+Estación: AGUACALIENTE
+
+
+------------- Procesando estación: AMAPALA 2018/09/22 13:39:59
+Estación: AMAPALA
+
+
+------------- Procesando estación: AZACUALPA 2018/09/22 13:40:03
+Estación: AZACUALPA
+
+
+------------- Procesando estación: CATACAMAS 2018/09/22 13:40:07
+Estación: CATACAMAS
+
+
+------------- Procesando estación: CAYETANO 2018/09/22 13:40:11
+Estación: CAYETANO
+
+
+------------- Procesando estación: CHOLUTECA 2018/09/22 13:40:15
+Estación: CHOLUTECA
+
+
+------------- Procesando estación: ELCAJON 2018/09/22 13:40:17
+Estación: ELCAJON
+
+
+------------- Procesando estación: ELGUINEO 2018/09/22 13:40:20
+Estación: ELGUINEO
+
+
+------------- Procesando estación: ELJARAL 2018/09/22 13:40:24
+Estación: ELJARAL
+
+
+------------- Procesando estación: ELJUNQUILLO 2018/09/22 13:40:27
+Estación: ELJUNQUILLO
+
+
+------------- Procesando estación: ELMOCHITO 2018/09/22 13:40:30
+Estación: ELMOCHITO
+
+
+------------- Procesando estación: ELNISPERO 2018/09/22 13:40:34
+Estación: ELNISPERO
+
+
+------------- Procesando estación: ELVIJAO 2018/09/22 13:40:38
+Estación: ELVIJAO
+
+
+------------- Procesando estación: ESQUIASCOMAYAGUA 2018/09/22 13:40:41
+Estación: ESQUIASCOMAYAGUA
+
+
+------------- Procesando estación: FLORES_SMN 2018/09/22 13:40:43
+Estación: FLORES_SMN
+
+
+------------- Procesando estación: GRACIASLEMPIRA 2018/09/22 13:40:47
+Estación: GRACIASLEMPIRA
+
+
+------------- Procesando estación: GUALTAYACOPAN 2018/09/22 13:40:50
+Estación: GUALTAYACOPAN
+
+
+------------- Procesando estación: GUAYMACA 2018/09/22 13:40:53
+gamSer( 9.37241942245491E+002, 9.06632979359679E+002) no converge.
+Valor aproximado de:  2.16542969424373E-002 +/- 2.11597219027204E-007 utilizado
+gamSer( 6.94077545385562E+002, 6.67738520876097E+002) no converge.
+Valor aproximado de:  2.52106955234850E-002 +/- 2.89016609678864E-008 utilizado
+gamSer( 1.28913224269838E+003, 1.25323239716409E+003) no converge.
+Valor aproximado de:  1.84257662021962E-002 +/- 1.01016233066404E-006 utilizado
+gamSer( 1.70218841960024E+003, 1.66093487325238E+003) no converge.
+Valor aproximado de:  1.59928514317248E-002 +/- 2.75215268991114E-006 utilizado
+gamSer( 3.89310605758113E+003, 3.83071396894593E+003) no converge.
+Valor aproximado de:  1.02692479409611E-002 +/- 1.41087094665748E-005 utilizado
+gamSer( 3.46522993757417E+003, 3.40636656522545E+003) no converge.
+Valor aproximado de:  1.09664777314241E-002 +/- 1.22834201757942E-005 utilizado
+Estación: GUAYMACA
+
+
+------------- Procesando estación: LACEIBA 2018/09/22 13:40:56
+Estación: LACEIBA
+
+
+------------- Procesando estación: LAESPERANZA 2018/09/22 13:40:58
+Estación: LAESPERANZA
+
+
+------------- Procesando estación: LAJUTOSA 2018/09/22 13:41:02
+Estación: LAJUTOSA
+
+
+------------- Procesando estación: LALABOR 2018/09/22 13:41:05
+gamSer( 1.08609133352183E+003, 1.03986425465483E+003) no converge.
+Valor aproximado de:  1.65065595093473E-002 +/- 1.30430435420759E-007 utilizado
+Error en gamFit, arreglo de datos vacío
+gamSer( 5.43435332137528E+003, 5.36063751582411E+003) no converge.
+Valor aproximado de:  8.43277875766708E-003 +/- 1.86464404526277E-005 utilizado
+gamSer( 1.34847726850616E+003, 1.31176018889480E+003) no converge.
+Valor aproximado de:  1.80095793740823E-002 +/- 1.21278489463206E-006 utilizado
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Error en gamFit, arreglo de datos vacío
+Estación: LALABOR
+
+
+------------- Procesando estación: LALIMA 2018/09/22 13:41:09
+gamSer( 3.21226752592587E+003, 3.15590199187979E+003) no converge.
+Valor aproximado de:  1.14681001991221E-002 +/- 1.11847347680229E-005 utilizado
+gammCf( 9.19419878422398E+003, 9.20218982313190E+003): no converge.
+Valor impreciso de:  1.22092277212445E-002 +/-  0.00000000000000E+000 utilizado
+gammCf( 2.07363484574443E+004, 2.07696972551610E+004): no converge.
+Valor impreciso de:  7.28735838427569E-003 +/-  0.00000000000000E+000 utilizado
+gamSer( 9.19419878422398E+003, 9.07302557605655E+003) no converge.
+Valor aproximado de:  5.41786592444258E-003 +/- 1.66968599665315E-005 utilizado
+gamSer( 4.06969386443230E+003, 3.98023417575233E+003) no converge.
+Valor aproximado de:  8.33996128208364E-003 +/- 7.77322942429093E-006 utilizado
+gamSer( 2.07363484574443E+004, 2.05458310685085E+004) no converge.
+Valor aproximado de:  2.99291842870247E-003 +/- 1.50250489260815E-005 utilizado
+gamSer( 4.92891400425619E+002, 4.88147782974408E+002) no converge.
+Valor aproximado de:  4.86461643610897E-002 +/- 5.15868422836737E-008 utilizado
+gamSer( 3.78122476646857E+003, 3.69962108554639E+003) no converge.
+Valor aproximado de:  8.97148328472810E-003 +/- 7.94134257173261E-006 utilizado
+gamSer( 6.51507819683038E+003, 6.38079382680350E+003) no converge.
+Valor aproximado de:  5.76372347156370E-003 +/- 8.84450457649935E-006 utilizado
+gamSer( 3.21226752592587E+003, 3.16540165596450E+003) no converge.
+Valor aproximado de:  1.24951924661314E-002 +/- 1.51062775816422E-005 utilizado
+Estación: LALIMA
+
+
+------------- Procesando estación: LASANIMAS 2018/09/22 13:41:15
+gamSer( 8.85475976175729E+002, 8.55724629267067E+002) no converge.
+Valor aproximado de:  2.22859824260203E-002 +/- 1.51505272367928E-007 utilizado
+Estación: LASANIMAS
+
+
+------------- Procesando estación: LASMESETAS 2018/09/22 13:41:17
+Estación: LASMESETAS
+
+
+------------- Procesando estación: LAUNIONLEMPIRA 2018/09/22 13:41:21
+Estación: LAUNIONLEMPIRA
+
+
+------------- Procesando estación: LEPAGUARE 2018/09/22 13:41:24
+gamSer( 1.15332531437292E+003, 1.11134814689085E+003) no converge.
+Valor aproximado de:  1.73118754794302E-002 +/- 3.01443456103210E-007 utilizado
+gamSer( 8.44982839756243E+002, 8.13086401480247E+002) no converge.
+Valor aproximado de:  2.17002806430886E-002 +/- 8.01087915881091E-008 utilizado
+gamSer( 4.26572896449090E+002, 4.24320852540367E+002) no converge.
+Valor aproximado de:  5.65292000043377E-002 +/- 2.29473132701323E-008 utilizado
+gamSer( 1.15332531437292E+003, 1.14749993420508E+003) no converge.
+Valor aproximado de:  3.25626611944879E-002 +/- 7.40388770943190E-006 utilizado
+gamSer( 8.44982839756243E+002, 8.29068392706337E+002) no converge.
+Valor aproximado de:  2.95848329228796E-002 +/- 5.61107733483314E-007 utilizado
+gamSer( 1.15332531437292E+003, 1.12870211545567E+003) no converge.
+Valor aproximado de:  2.26957595825851E-002 +/- 1.41947188257252E-006 utilizado
+gamSer( 5.73854660692377E+002, 5.74009307688709E+002) no converge.
+Valor aproximado de:  5.31757136233784E-002 +/- 4.32973406306751E-007 utilizado
+Estación: LEPAGUARE
+
+
+------------- Procesando estación: MANTO 2018/09/22 13:41:26
+gamSer( 7.96914537368491E+002, 7.71456857305881E+002) no converge.
+Valor aproximado de:  2.47732500148181E-002 +/- 1.11015682834398E-007 utilizado
+gamSer( 7.96914537368491E+002, 7.72962525543047E+002) no converge.
+Valor aproximado de:  2.55120845419190E-002 +/- 1.34916129781539E-007 utilizado
+gamSer( 9.91811799145935E+002, 9.60324048101392E+002) no converge.
+Valor aproximado de:  2.10429050505473E-002 +/- 2.89902445234933E-007 utilizado
+Estación: MANTO
+
+
+------------- Procesando estación: MARALE 2018/09/22 13:41:28
+Estación: MARALE
+
+
+------------- Procesando estación: MEAMBARCOAYAGUA 2018/09/22 13:41:32
+Estación: MEAMBARCOAYAGUA
+
+
+------------- Procesando estación: NUEVAOCOTEPEQUE 2018/09/22 13:41:34
+Estación: NUEVAOCOTEPEQUE
+
+
+------------- Procesando estación: OMOA 2018/09/22 13:41:38
+Estación: OMOA
+
+
+------------- Procesando estación: PITOSOLO 2018/09/22 13:41:41
+Estación: PITOSOLO
+
+
+------------- Procesando estación: PUEBLONUEVO 2018/09/22 13:41:43
+Estación: PUEBLONUEVO
+
+
+------------- Procesando estación: PUERTOLEMPIRA 2018/09/22 13:41:47
+Estación: PUERTOLEMPIRA
+
+
+------------- Procesando estación: RIOABAJO 2018/09/22 13:41:51
+Estación: RIOABAJO
+
+
+------------- Procesando estación: ROATAN 2018/09/22 13:41:55
+Estación: ROATAN
+
+
+------------- Procesando estación: SANANTONIO 2018/09/22 13:41:59
+Estación: SANANTONIO
+
+
+------------- Procesando estación: SANFCOBECERRA 2018/09/22 13:42:03
+Estación: SANFCOBECERRA
+
+
+------------- Procesando estación: SANFELIPE 2018/09/22 13:42:07
+Estación: SANFELIPE
+
+
+------------- Procesando estación: SANIGNACIOFCOMORAZAN 2018/09/22 13:42:10
+Estación: SANIGNACIOFCOMORAZAN
+
+
+------------- Procesando estación: SANISIDROTEUPA 2018/09/22 13:42:13
+Estación: SANISIDROTEUPA
+
+
+------------- Procesando estación: SANJERONIMO 2018/09/22 13:42:17
+Estación: SANJERONIMO
+
+
+------------- Procesando estación: SANJOSEDELAMONTANA 2018/09/22 13:42:21
+Estación: SANJOSEDELAMONTANA
+
+
+------------- Procesando estación: SANPEDROCATACAMAS 2018/09/22 13:42:26
+Estación: SANPEDROCATACAMAS
+
+
+------------- Procesando estación: SANRAFAELLEMPIRA 2018/09/22 13:42:30
+Estación: SANRAFAELLEMPIRA
+
+
+------------- Procesando estación: SANTALUCIA 2018/09/22 13:42:34
+Estación: SANTALUCIA
+
+
+------------- Procesando estación: SANTAMARIA 2018/09/22 13:42:37
+Estación: SANTAMARIA
+
+
+------------- Procesando estación: SANTARITA 2018/09/22 13:42:41
+Estación: SANTARITA
+
+
+------------- Procesando estación: SANTAROSADECOPAN 2018/09/22 13:42:45
+Estación: SANTAROSADECOPAN
+
+
+------------- Procesando estación: STAELENA 2018/09/22 13:42:48
+Estación: STAELENA
+
+
+------------- Procesando estación: SULACO 2018/09/22 13:42:50
+Estación: SULACO
+
+
+------------- Procesando estación: TEGUCIGALPA 2018/09/22 13:42:54
+Estación: TEGUCIGALPA
+
+
+------------- Procesando estación: TELA 2018/09/22 13:42:57
+Estación: TELA
+
+
+------------- Procesando estación: TRUJILLO 2018/09/22 13:43:01
+Estación: TRUJILLO
+
+
+------------- Procesando estación: ULAPA 2018/09/22 13:43:05
+Estación: ULAPA
+
+
+------------- Procesando estación: VALLECILLO 2018/09/22 13:43:09
+Estación: VALLECILLO
+
+
+------------- Procesando estación: YORITO 2018/09/22 13:43:13
+Estación: YORITO
+
+
+------------- Procesando estación: YORO 2018/09/22 13:43:16
+Estación: YORO
+Proceso terminado: 2018/09/22 13:43:18  segs: 204.78
