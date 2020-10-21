@@ -1,1 +1,0 @@
-El programa de carga MCHCargaSPIfp.exe requiere que se creen las tablas de los indices SPI de 3, 6, 12 y 24 meses para funcionar, el archivo varsMCHspi.var contiene la definición de las tablas para depositar ahi los datos.
