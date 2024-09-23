@@ -1,6 +1,6 @@
 # MCH
 ### Meteorological, Climatological and Hydrological Database Management System
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: AGPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 MCH is a database management system (DBMS)* based on open source database and software.
 
